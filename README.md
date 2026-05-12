@@ -92,8 +92,8 @@ while True:
        c.send("Not Found".encode())
 ```
 ## OUPUT -RARP
-![IMAGE](https://github.com/VGSAIRAIMA/2c.ARP_RARP_PROTOCOLS/blob/main/Screenshot%202026-05-12%20114258.png)
-![IMAGE](https://github.com/VGSAIRAIMA/2c.ARP_RARP_PROTOCOLS/blob/main/Screenshot%202026-05-12%20114308.png)
+![IMAGE](https://github.com/VGSAIRAIMA/2c.ARP_RARP_PROTOCOLS/blob/main/Screenshot%202026-05-12%20143730.png)
+![IMAGE](https://github.com/VGSAIRAIMA/2c.ARP_RARP_PROTOCOLS/blob/main/Screenshot%202026-05-12%20143739.png)
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
